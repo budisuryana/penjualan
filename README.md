@@ -1,4 +1,4 @@
-# penjualan
+# Larapos - Aplikasi Penjualan Sederhana Dengan Menggunakan Laravel 5
 Link Demo http://larapostory.budisuryana.website/
 
 Login dengan username :
