@@ -1,0 +1,112 @@
+.icon-blank{
+	background:url('icons/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('icons/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('icons/pencil.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('icons/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('icons/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('icons/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('icons/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('icons/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('icons/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('icons/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('icons/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('icons/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('icons/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('icons/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('icons/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('icons/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('icons/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('icons/tip.png') no-repeat center center;
+}
+
+.icon-mini-add{
+	background:url('icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('icons/mini_refresh.png') no-repeat center center;
+}
+.icon-cart{
+	background:url('icons/cart.png')no-repeat center center;
+}
+.icon-user{
+	background:url('icons/user.png')no-repeat center center;
+}
+.icon-box{
+	background:url('icons/box.png')no-repeat center center;
+}
+.icon-box-fill{
+	background:url('icons/box-fill.png')no-repeat center center;
+}
+.icon-supplier{
+	background:url('icons/supplier.png')no-repeat center center;
+}
+.icon-shop{
+	background:url('icons/shop.png')no-repeat center center;
+}
+.icon-truck{
+	background:url('icons/truck.png')no-repeat center center;
+}
+.icon-trolly{
+	background:url('icons/trolly.png')no-repeat center center;
+}
+.icon-stack-e{
+	background:url('icons/stack-e.png')no-repeat center center;
+}
+.icon-stack-f{
+	background:url('icons/stack-f.png')no-repeat center center;
+}
+.icon-report1{
+	background:url('icons/report1.png')no-repeat center center;
+}
+.icon-report2{
+	background:url('icons/report2.png')no-repeat center center;
+}
+.icon-report3{
+	background:url('icons/report3.png')no-repeat center center;
+}
+.icon-report4{
+	background:url('icons/report4.png')no-repeat center center;
+}
+.icon-pdf{
+	background:url('icons/pdf.png')no-repeat center center;
+}
+.icon-logout{
+	background:url('icons/logout.png')no-repeat center center;
+}

@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^demo\.laravos\.budisuryana\.website$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.demo\.laravos\.budisuryana\.website$
+RewriteRule ^/?$ "http\:\/\/demo\.laravos\.budisuryana\.website" [R=301,L]
+

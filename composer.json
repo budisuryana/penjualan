@@ -1,0 +1,5 @@
+{
+    "require": {
+        "milon/barcode": "^5.2"
+    }
+}
